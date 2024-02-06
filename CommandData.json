@@ -64,11 +64,33 @@
         "lastupdated": "2024/02/05"
     },
     {
-        "name": "Alpental",
+        "name": "Teneriffe / Kamikaze",
         "category": "I-90",
         "city": "Snoqualmie Pass",
         "state": "Washington",
         "id": 1004,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Snoqualmie Pass",
+        "coordinates": {
+            "longitude": -121.84405,
+            "latitude": 47.51042
+        },
+        "toliet": "vault/porta",
+        "cellservice": "Yes. Can be spotty near the TH",
+        "parking": "Limited on weekends",
+        "notes": "",
+        "trailinfo": "CP is usually in the trailhead parking lot. DNR gates here allow access into the Snoqualmie mountain trails, and Raging River mountain bike trails.",
+        "directions": "",
+        "imageName": "umbagog",
+        "lastupdated": "2024/02/05"
+    },
+    {
+        "name": "Alpental",
+        "category": "I-90",
+        "city": "Snoqualmie Pass",
+        "state": "Washington",
+        "id": 1005,
         "isFeatured": false,
         "isFavorite": false,
         "park": "Snoqualmie Pass",
