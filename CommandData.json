@@ -20,6 +20,50 @@
         "lastupdated": "2024/02/05"
     },
     {
+        "name": "Rattlesnake Ridge - Ledge",
+        "category": "I-90",
+        "city": "Snoqualmie Pass",
+        "state": "Washington",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Snoqualmie Pass",
+        "coordinates": {
+            "longitude": -121.77138,
+            "latitude": 47.43554
+        },
+        "toliet": "vault/porta",
+        "cellservice": "Yes. Can be spotty near the TH",
+        "parking": "vault / porta",
+        "notes": "This is an extremely busy trailhead year-round.  4x4 should block traffic at the gate.",
+        "trailinfo": "CP and parking is in the open field near the trailhead restrooms. This area is behind a locked gate, which requires watershed or fire for access.",
+        "directions": "",
+        "imageName": "umbagog",
+        "lastupdated": "2024/02/05"
+    },
+    {
+        "name": "Winery Road",
+        "category": "I-90",
+        "city": "Snoqualmie Pass",
+        "state": "Washington",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Snoqualmie Pass",
+        "coordinates": {
+            "longitude": -121.84405,
+            "latitude": 47.51042
+        },
+        "toliet": "vault/porta",
+        "cellservice": "Yes. Can be spotty near the TH",
+        "parking": "Limited on weekends",
+        "notes": "",
+        "trailinfo": "CP is usually in the trailhead parking lot. DNR gates here allow access into the Snoqualmie mountain trails, and Raging River mountain bike trails.",
+        "directions": "",
+        "imageName": "umbagog",
+        "lastupdated": "2024/02/05"
+    },
+    {
         "name": "Alpental",
         "category": "I-90",
         "city": "Snoqualmie Pass",
@@ -32,8 +76,8 @@
             "longitude": -71.056816,
             "latitude": 44.747408
         },
-        "toliet": "Yes, at Trailhead",
-        "notes": "",
+        "toliet": "Yes, in parking lot",
+        "notes": "*** Check chain requirements ***",
         "trailinfo": "",
         "directions": "",
         "imageName": "umbagog",
