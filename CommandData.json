@@ -16,207 +16,18 @@
         "notes": "*** Two Trails, Old and New Trail ***",
         "trailinfo": "Old Trail: \nRound Trip: 5.4 miles \nElevation: 4,000ft \nWTA Difficulty: Hard \n \nNew Trail: \nRound Trip: 9.4 miles \nElevation: 4,000ft \nWTA Difficulty: Hard",
         "directions": "- Take exit 34 from I-90. \n\n- Head north on 468th Ave SE for approximately half a mile until the intersection with the SE Middle Fork Road. \n\n- Turn right onto the Middle Fork Road. \n\n- Follow SE Middle Fork Road 2.2 miles to the stop sign at the junction with SE Dorothy Lake Road. \n\n- Head right onto SE Dorothy Lake Road, and just after it links back up with the Middle Fork Road, look for the turnoff for Mailbox Peak trailhead to your right. \n\n- Take the turnoff to the trailhead on the right and continue a short distance up the paved road to the paved parking lot with 40 spots and a vault toilet.",
-        "imageName": "turtlerock"
+        "imageName": "turtlerock",
+        "lastupdated": "2024/02/05"
     },
     {
-        "name": "Silver Salmon Creek",
-        "category": "Lakes",
-        "city": "Port Alsworth",
-        "state": "Alaska",
-        "id": 1002,
-        "isFeatured": false,
-        "isFavorite": false,
-        "park": "Lake Clark National Park and Preserve",
-        "coordinates": {
-            "longitude": -152.665167,
-            "latitude": 59.980167
-        },
-        "toliet": "Yes, at Trailhead",
-        "notes": "",
-        "trailinfo": "",
-        "directions": "",
-        "imageName": "silversalmoncreek"
-    },
-    {
-        "name": "Chilkoot Trail",
-        "category": "Mountains",
-        "city": "Skagway",
-        "state": "Alaska",
-        "id": 1003,
-        "isFeatured": false,
-        "isFavorite": true,
-        "park": "Klondike Gold Rush National Historical Park",
-        "coordinates": {
-            "longitude": -135.334571,
-            "latitude": 59.560551
-        },
-        "toliet": "Yes, at Trailhead",
-        "notes": "",
-        "trailinfo": "",
-        "directions": "",
-        "imageName": "chilkoottrail"
-    },
-    {
-        "name": "St. Mary Lake",
-        "category": "Lakes",
-        "city": "Browning",
-        "state": "Montana",
-        "id": 1004,
-        "isFeatured": true,
-        "isFavorite": true,
-        "park": "Glacier National Park",
-        "coordinates": {
-            "longitude": -113.536248,
-            "latitude": 48.69423
-        },
-        "toliet": "Yes, at Trailhead",
-        "notes": "",
-        "trailinfo": "",
-        "directions": "",
-        "imageName": "stmarylake"
-    },
-    {
-        "name": "Twin Lake",
-        "category": "Lakes",
-        "city": "Twin Lakes",
-        "state": "Alaska",
-        "id": 1005,
-        "isFeatured": false,
-        "isFavorite": false,
-        "park": "Lake Clark National Park and Preserve",
-        "coordinates": {
-            "longitude": -153.849883,
-            "latitude": 60.641684
-        },
-        "toliet": "Yes, at Trailhead",
-        "notes": "",
-        "trailinfo": "",
-        "directions": "",
-        "imageName": "twinlake"
-    },
-    {
-        "name": "Lake McDonald",
-        "category": "Mountains",
-        "city": "West Glacier",
-        "state": "Montana",
-        "id": 1006,
-        "isFeatured": false,
-        "isFavorite": false,
-        "park": "Glacier National Park",
-        "coordinates": {
-            "longitude": -113.934831,
-            "latitude": 48.56002
-        },
-        "toliet": "Yes, at Trailhead",
-        "notes": "",
-        "trailinfo": "",
-        "directions": "",
-        "imageName": "lakemcdonald"
-    },
-    {
-        "name": "Charley Rivers",
-        "category": "Rivers",
-        "city": "Eaking",
-        "state": "Alaska",
-        "id": 1007,
-        "isFeatured": true,
-        "isFavorite": false,
-        "park": "Charley Rivers National Preserve",
-        "coordinates": {
-            "longitude": -143.122586,
-            "latitude": 65.350021
-        },
-        "toliet": "Yes, at Trailhead",
-        "notes": "",
-        "trailinfo": "",
-        "directions": "",
-        "imageName": "charleyrivers"
-    },
-    {
-        "name": "Icy Bay",
-        "category": "Mountains",
-        "city": "Icy Bay",
-        "state": "Alaska",
-        "id": 1008,
-        "isFeatured": false,
-        "isFavorite": false,
-        "park": "Wrangell-St. Elias National Park and Preserve",
-        "coordinates": {
-            "longitude": -141.518167,
-            "latitude": 60.089917
-        },
-        "toliet": "Yes, at Trailhead",
-        "notes": "",
-        "trailinfo": "",
-        "directions": "",
-        "imageName": "icybay"
-    },
-    {
-        "name": "Rainbow Lake",
-        "category": "Lakes",
-        "city": "Willow",
-        "state": "Alaska",
-        "id": 1009,
-        "isFeatured": false,
-        "isFavorite": false,
-        "park": "State Recreation Area",
-        "coordinates": {
-            "longitude": -150.086103,
-            "latitude": 61.694334
-        },
-        "toliet": "Yes, at Trailhead",
-        "notes": "",
-        "trailinfo": "",
-        "directions": "",
-        "imageName": "rainbowlake"
-    },
-    {
-        "name": "Hidden Lake",
-        "category": "Lakes",
-        "city": "Newhalem",
+        "name": "Alpental",
+        "category": "I-90",
+        "city": "Snoqualmie Pass",
         "state": "Washington",
-        "id": 1010,
-        "isFeatured": false,
-        "isFavorite": false,
-        "park": "North Cascades National Park",
-        "coordinates": {
-            "longitude": -121.17799,
-            "latitude": 48.495442
-        },
-        "toliet": "Yes, at Trailhead",
-        "notes": "",
-        "trailinfo": "",
-        "directions": "",
-        "imageName": "hiddenlake"
-    },
-    {
-        "name": "Chincoteague",
-        "category": "Rivers",
-        "city": "Chincoteague",
-        "state": "Virginia",
-        "id": 1011,
-        "isFeatured": false,
-        "isFavorite": false,
-        "park": "Chincoteague National Wildlife Refuge",
-        "coordinates": {
-            "longitude": -75.383212,
-            "latitude": 37.91531
-        },
-        "toliet": "Yes, at Trailhead",
-        "notes": "",
-        "trailinfo": "",
-        "directions": "",
-        "imageName": "chincoteague"
-    },
-    {
-        "name": "Lake Umbagog",
-        "category": "Lakes",
-        "city": "Errol",
-        "state": "New Hampshire",
         "id": 1012,
         "isFeatured": false,
         "isFavorite": false,
-        "park": "Umbagog National Wildlife Refuge",
+        "park": "Snoqualmie Pass",
         "coordinates": {
             "longitude": -71.056816,
             "latitude": 44.747408
@@ -225,6 +36,7 @@
         "notes": "",
         "trailinfo": "",
         "directions": "",
-        "imageName": "umbagog"
+        "imageName": "umbagog",
+        "lastupdated": "2024/02/05"
     }
 ]
