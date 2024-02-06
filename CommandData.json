@@ -7,7 +7,7 @@
         "id": 1001,
         "isFeatured": true,
         "isFavorite": true,
-        "park": "Middle Fork",
+        "park": "Testing",
         "coordinates": {
             "longitude":  -121.6748,
             "latitude": 47.4675
